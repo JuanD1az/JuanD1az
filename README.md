@@ -1,7 +1,6 @@
-<p align=”center”>
-  <img src="./banner.jpg" alt=”my banner”>
-</p>
-## Hi there 👋
+[![header](./banner.jpg)](https://github.com/JuanD1az)
+
+# Holaa, soy Juan 👋
 
 <!--
 **JuanD1az/JuanD1az** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
