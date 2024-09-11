@@ -1,3 +1,5 @@
+[![header](./banner.jpg)](https://github.com/JuanD1az)
+
 ## Hi there 👋
 
 <!--
