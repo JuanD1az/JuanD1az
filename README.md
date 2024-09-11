@@ -1,5 +1,6 @@
-[![header](./banner.jpg)](https://github.com/JuanD1az)
-
+<p align=”center”>
+  <img width=”200" height=”200" src=”./banner.jpg" alt=”my banner”>
+</p>
 ## Hi there 👋
 
 <!--
