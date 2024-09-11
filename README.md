@@ -12,7 +12,7 @@ Con más de 4 años de experiencia, soy Desarrollador Full Stack. Mi pasión y h
 
 ## Lenguajes y Herramientas
 <div>
-	<img height="50" src="https://github.com/user-attachments/assets/3cd7d28f-06f2-4643-8178-231fcb1b3fae" alt="PHP" title="PHP" />&nbsp;&nbsp;
+	<a href="https://github.com/JuanD1az"><img height="50" src="https://github.com/user-attachments/assets/3cd7d28f-06f2-4643-8178-231fcb1b3fae" alt="PHP" title="PHP" /></a>&nbsp;&nbsp;
 	<img height="50" src="https://github.com/user-attachments/assets/e211bb40-4147-41f0-9e32-8b4b2eda3a04" alt="Laravel" title="Laravel" />&nbsp;&nbsp;
 	<img height="50" src="https://github.com/user-attachments/assets/e5bfae52-d9aa-4d5b-8885-6f12db9bdc7e" alt="Livewire" title="Livewire" />&nbsp;&nbsp;
 	<img height="50" src="https://github.com/user-attachments/assets/9ab942a7-b68c-4fa3-8da1-afa6d5253907" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
