@@ -1,4 +1,6 @@
-[![header](./banner.jpg)](https://github.com/JuanD1az)
+<p align="center">
+  <img src="./banner.png" alt="banner">
+</p>
 
 # Holaa, soy Juan 👋
 
